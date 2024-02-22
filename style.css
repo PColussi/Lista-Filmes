@@ -157,3 +157,8 @@ Film grade
 .filme-nota i:hover {
 	color: #e74c3c;
 }
+
+a{
+	color: black;
+	text-decoration: none;
+}
